@@ -1,0 +1,610 @@
+[0.290917301003614] Request 0 of 600: Response code [200]: Requesting data about hornepayne at lat:49.216666999999994, lon:-84.783333
+[0.44359194580389466] Request 1 of 600: Response code [200]: Requesting data about nenjiang at lat:49.18333300000002, lon:125.21666699999999
+[0.6119382819253081] Request 2 of 600: Response code [200]: Requesting data about bama at lat:11.522103, lon:13.685579
+[0.7736068949278855] Request 3 of 600: Response code [200]: Requesting data about cah ab at lat:37.397734, lon:69.814644
+[1.1349411279477508] Request 4 of 600: Response code [200]: Requesting data about tanout at lat:14.9702778, lon:8.8916667
+[1.2906150790201845] Request 5 of 600: Response code [200]: Requesting data about sukhobuzimskoye at lat:56.50000000000001, lon:93.27277800000002
+[1.55538524018944] Request 6 of 600: Response code [200]: Requesting data about sherlovaya gora at lat:50.56666700000001, lon:116.25
+[1.8669472656219135] Request 7 of 600: Response code [200]: Requesting data about aksu at lat:52.45861099999999, lon:71.985833
+[2.0330832331194206] Request 8 of 600: Response code [200]: Requesting data about kargil at lat:34.566667, lon:76.09999999999998
+[2.1971692269280183] Request 9 of 600: Response code [200]: Requesting data about unguia at lat:8.043346, lon:-77.094527
+[2.387636236929393] Request 10 of 600: Response code [200]: Requesting data about les cayes at lat:18.200000000000003, lon:-73.75
+[2.4675468898394946] Request 11 of 600: Response code [200]: Requesting data about bowen at lat:-20.013670000000005, lon:148.247543
+[2.642329961615833] Request 12 of 600: Response code [200]: Requesting data about henderson at lat:36.3294444, lon:-78.3994444
+[2.806425041837004] Request 13 of 600: Response code [200]: Requesting data about surt at lat:31.206111099999994, lon:16.594722199999996
+[2.972117750425481] Request 14 of 600: Response code [200]: Requesting data about sao felipe at lat:-14.816666999999999, lon:-41.383333
+[3.1364478921893197] Request 15 of 600: Response code [200]: Requesting data about pishva at lat:35.30799999999999, lon:51.7267
+[3.2986320603401005] Request 16 of 600: Response code [200]: Requesting data about salihorsk at lat:52.8, lon:27.533333300000006
+[3.479008806709091] Request 17 of 600: Response code [200]: Requesting data about kotelnich at lat:58.3089, lon:48.348000000000006
+[3.640388234754975] Request 18 of 600: Response code [200]: Requesting data about menongue at lat:-14.661639000000003, lon:17.688224
+[3.7821892091344522] Request 19 of 600: Response code [200]: Requesting data about kuching at lat:1.55, lon:110.333333
+[3.9297628209281417] Request 20 of 600: Response code [200]: Requesting data about marawi at lat:18.4833333, lon:31.816666700000003
+[4.080708281909506] Request 21 of 600: Response code [200]: Requesting data about arkhangelos at lat:36.18333330000001, lon:28.1333333
+[4.238764453321913] Request 22 of 600: Response code [200]: Requesting data about tougue at lat:11.45, lon:-11.6833333
+[4.4769007589919925] Request 23 of 600: Response code [200]: Requesting data about tachi at lat:24.8833333, lon:121.28333329999997
+[4.63369036350391] Request 24 of 600: Response code [200]: Requesting data about mombaca at lat:-5.75, lon:-39.633333
+[4.789045895074849] Request 25 of 600: Response code [200]: Requesting data about sao borja at lat:-28.65, lon:-56.0
+[4.839686842716569] Request 26 of 600: Response code [200]: Requesting data about unye at lat:41.131389000000006, lon:37.2825
+[4.894824379398021] Request 27 of 600: Response code [200]: Requesting data about zhitikara at lat:52.190833000000005, lon:61.200556
+[5.0471391232481] Request 28 of 600: Response code [200]: Requesting data about isangel at lat:-19.55, lon:169.26666670000003
+[5.197072041819621] Request 29 of 600: Response code [200]: Requesting data about serravalle pistoiese at lat:43.900000000000006, lon:10.816666999999999
+[5.3630736884356045] Request 30 of 600: Response code [200]: Requesting data about castiglion fiorentino at lat:43.333333, lon:11.916667000000004
+[5.519256083550749] Request 31 of 600: Response code [200]: Requesting data about forbes at lat:-33.384361000000006, lon:148.007599
+[5.691258318018119] Request 32 of 600: Response code [200]: Requesting data about bo phloi at lat:14.323611000000001, lon:99.51611100000001
+[5.932144251145283] Request 33 of 600: Response code [200]: Requesting data about nola at lat:3.5333333, lon:16.0666667
+[6.099380069625624] Request 34 of 600: Response code [200]: Requesting data about victor harbor at lat:-35.550419, lon:138.621536
+[6.360557937336939] Request 35 of 600: Response code [200]: Requesting data about binzhou at lat:45.752809000000006, lon:127.47986300000001
+[6.525914448660188] Request 36 of 600: Response code [200]: Requesting data about apache junction at lat:33.415, lon:-111.5488889
+[6.6878840984619465] Request 37 of 600: Response code [200]: Requesting data about kutum at lat:14.200000000000001, lon:24.6666667
+[6.848533453010605] Request 38 of 600: Response code [200]: Requesting data about konya at lat:37.871354, lon:32.484636
+[7.091274989609885] Request 39 of 600: Response code [200]: Requesting data about necochea at lat:-38.547259, lon:-58.736753
+[7.255344785900416] Request 40 of 600: Response code [200]: Requesting data about maridi at lat:4.9147222, lon:29.476944400000008
+[7.6114649983486435] Request 41 of 600: Response code [200]: Requesting data about biltine at lat:14.5333333, lon:20.9166667
+[7.675285194836389] Request 42 of 600: Response code [200]: Requesting data about traverse city at lat:44.763055600000015, lon:-85.6205556
+[7.862006232488903] Request 43 of 600: Response code [200]: Requesting data about le vauclin at lat:14.5333333, lon:-60.83333330000001
+[8.128092343235679] Request 44 of 600: Response code [200]: Requesting data about novaya maka at lat:41.771729, lon:48.361489000000006
+[8.262295101396463] Request 45 of 600: Response code [200]: Requesting data about bossier city at lat:32.5158333, lon:-93.7319444
+[8.443100094340666] Request 46 of 600: Response code [200]: Requesting data about peace river at lat:56.233333, lon:-117.283333
+[8.756166908707627] Request 47 of 600: Response code [200]: Requesting data about sunland park at lat:31.7963889, lon:-106.5794444
+[8.922367666277399] Request 48 of 600: Response code [200]: Requesting data about rankovce at lat:42.18194439999999, lon:22.122777799999998
+[9.281212222252071] Request 49 of 600: Response code [200]: Requesting data about lormi at lat:22.283333000000002, lon:81.73333299999999
+[9.48668010928979] Request 50 of 600: Response code [200]: Requesting data about nauta at lat:-4.5333333, lon:-73.55
+[9.63230488311713] Request 51 of 600: Response code [200]: Requesting data about bukene at lat:-4.2333333, lon:32.8833333
+[9.804868104795572] Request 52 of 600: Response code [200]: Requesting data about cravo norte at lat:6.301735000000001, lon:-70.204154
+[9.961770696872536] Request 53 of 600: Response code [200]: Requesting data about agfalva at lat:47.68991, lon:16.516575999999997
+[10.116816105231718] Request 54 of 600: Response code [200]: Requesting data about puerto cabezas at lat:14.0333333, lon:-83.3833333
+[10.535246194373377] Request 55 of 600: Response code [200]: Requesting data about barahan at lat:13.0121, lon:120.76200000000001
+[10.535385255991896] Reaching request limit.  Waiting for 60 seconds...
+[71.11609788357698] Request 56 of 600: Response code [200]: Requesting data about ndele at lat:8.4091667, lon:20.653055600000002
+[71.27409716614545] Request 57 of 600: Response code [200]: Requesting data about wote at lat:-1.7833333, lon:37.6333333
+[71.43545526087486] Request 58 of 600: Response code [200]: Requesting data about palmares do sul at lat:-30.26666700000001, lon:-50.516667
+[71.59871478620066] Request 59 of 600: Response code [200]: Requesting data about pastos bons at lat:-6.6, lon:-44.08333299999999
+[71.76315159454688] Request 60 of 600: Response code [200]: Requesting data about rio grande at lat:-32.033333, lon:-52.08333300000001
+[71.92229932065239] Request 61 of 600: Response code [200]: Requesting data about kungurtug at lat:50.59944399999999, lon:97.522778
+[72.07719658098048] Request 62 of 600: Response code [200]: Requesting data about ararangua at lat:-28.933332999999998, lon:-49.483333
+[72.24885550707712] Request 63 of 600: Response code [200]: Requesting data about atyashevo at lat:54.564431000000006, lon:46.069047
+[72.41398762351595] Request 64 of 600: Response code [200]: Requesting data about mongoumba at lat:3.6333333, lon:18.600000000000005
+[72.56418365299069] Request 65 of 600: Response code [200]: Requesting data about richard toll at lat:16.4666667, lon:-15.6833333
+[72.72517789615574] Request 66 of 600: Response code [200]: Requesting data about kieta at lat:-6.216666700000002, lon:155.6333333
+[72.8774195536438] Request 67 of 600: Response code [200]: Requesting data about tsienyane at lat:-21.016666700000005, lon:24.3333333
+[73.03609715666397] Request 68 of 600: Response code [200]: Requesting data about autun at lat:46.95487800000001, lon:4.300357
+[73.19706809120545] Request 69 of 600: Response code [200]: Requesting data about rajshahi at lat:24.3666667, lon:88.59999999999998
+[73.35065690812294] Request 70 of 600: Response code [200]: Requesting data about barcelos at lat:-1.0, lon:-62.96666700000001
+[73.51609519715934] Request 71 of 600: Response code [200]: Requesting data about bure at lat:10.7, lon:37.06666700000001
+[73.70475559130422] Request 72 of 600: Response code [200]: Requesting data about marsa matruh at lat:31.35000000000001, lon:27.2333333
+[74.03978584510747] Request 73 of 600: Response code [200]: Requesting data about nuoro at lat:40.316667, lon:9.350000000000001
+[74.2484849394687] Request 74 of 600: Response code [200]: Requesting data about umbita at lat:5.220408000000001, lon:-73.456953
+[74.41092194692587] Request 75 of 600: Response code [200]: Requesting data about nguru at lat:12.879100000000001, lon:10.4526
+[74.47999646024971] Request 76 of 600: Response code [200]: Requesting data about sakakah at lat:29.969742000000004, lon:40.206414
+[74.87459288921056] Request 77 of 600: Response code [200]: Requesting data about manono at lat:-7.3, lon:27.416667
+[75.04022159784961] Request 78 of 600: Response code [200]: Requesting data about savannah bight at lat:16.45, lon:-85.84999999999998
+[75.20957218009112] Request 79 of 600: Response code [200]: Requesting data about show low at lat:34.2541667, lon:-110.0291667
+[75.36917817743947] Request 80 of 600: Response code [200]: Requesting data about nemuro at lat:43.32361100000001, lon:145.57500000000002
+[75.528375286222] Request 81 of 600: Response code [200]: Requesting data about palestine at lat:31.761944400000015, lon:-95.6305556
+[75.69251382319895] Request 82 of 600: Response code [200]: Requesting data about suratgarh at lat:29.316667, lon:73.9
+[76.02044087273808] Request 83 of 600: Response code [200]: Requesting data about constitucion at lat:-35.333333, lon:-72.416667
+[76.17632460142254] Request 84 of 600: Response code [200]: Requesting data about storsteinnes at lat:69.23333300000002, lon:19.233333
+[76.44096992318426] Request 85 of 600: Response code [200]: Requesting data about wuchang at lat:44.91428200000001, lon:127.15000700000002
+[76.60186303062675] Request 86 of 600: Response code [200]: Requesting data about kemijarvi at lat:66.66666700000002, lon:27.416666999999997
+[76.77251099455921] Request 87 of 600: Response code [200]: Requesting data about dikson at lat:73.50694399999999, lon:80.546389
+[76.93458494057487] Request 88 of 600: Response code [200]: Requesting data about pineville at lat:31.3222222, lon:-92.4341667
+[77.13077362506775] Request 89 of 600: Response code [200]: Requesting data about kharagpur at lat:22.333332999999996, lon:87.333333
+[77.28300698626609] Request 90 of 600: Response code [200]: Requesting data about baley at lat:51.60000000000001, lon:116.633333
+[77.4469159925602] Request 91 of 600: Response code [200]: Requesting data about zemaiciu naumiestis at lat:55.3591667, lon:21.702222200000005
+[77.70275895090651] Request 92 of 600: Response code [200]: Requesting data about myanaung at lat:18.2833333, lon:95.3166667
+[77.86497788446192] Request 93 of 600: Response code [200]: Requesting data about ust-maya at lat:60.416667, lon:134.533333
+[78.03180007363945] Request 94 of 600: Response code [200]: Requesting data about bose at lat:23.899722000000004, lon:106.613333
+[78.29287245995262] Request 95 of 600: Response code [200]: Requesting data about farafenni at lat:13.5666667, lon:-15.6
+[78.52849815032245] Request 96 of 600: Response code [200]: Requesting data about valleyview at lat:55.066667, lon:-117.283333
+[78.68295294186434] Request 97 of 600: Response code [200]: Requesting data about marihatag at lat:8.793611, lon:126.29694399999998
+[79.05419215471237] Request 98 of 600: Response code [200]: Requesting data about saucillo at lat:28.016666999999998, lon:-105.283333
+[79.21195084487834] Request 99 of 600: Response code [200]: Requesting data about nizhniy baskunchak at lat:48.21977600000001, lon:46.831053
+[79.38526191781774] Request 100 of 600: Response code [200]: Requesting data about cayenne at lat:4.9333333, lon:-52.33333330000001
+[79.55218168716509] Request 101 of 600: Response code [200]: Requesting data about rorvik at lat:64.85000000000001, lon:11.233333000000004
+[80.12921589790349] Request 102 of 600: Response code [200]: Requesting data about mbandaka at lat:0.066667, lon:18.266667
+[80.41609488111021] Request 103 of 600: Response code [200]: Requesting data about skovorodino at lat:53.983332999999995, lon:123.916667
+[80.60608228655227] Request 104 of 600: Response code [200]: Requesting data about louisbourg at lat:45.91666700000001, lon:-59.983333
+[80.96173632652932] Request 105 of 600: Response code [200]: Requesting data about sehithwa at lat:-20.4666667, lon:22.7166667
+[81.12462054350969] Request 106 of 600: Response code [200]: Requesting data about ouargaye at lat:11.5033333, lon:0.05722220000000001
+[81.35264643741516] Request 107 of 600: Response code [200]: Requesting data about cabinda at lat:-5.550000000000001, lon:12.2
+[81.51196443499106] Request 108 of 600: Response code [200]: Requesting data about sterling at lat:40.6255556, lon:-103.2072222
+[81.67397793661003] Request 109 of 600: Response code [200]: Requesting data about khomeynishahr at lat:32.70017500000001, lon:51.52113400000001
+[81.98051557095066] Request 110 of 600: Response code [200]: Requesting data about verkh-usugli at lat:52.683333000000005, lon:115.233333
+[81.98065621281485] Reaching request limit.  Waiting for 60 seconds...
+[142.45445060389088] Request 111 of 600: Response code [200]: Requesting data about karmala at lat:18.416667, lon:75.2
+[142.61301798477592] Request 112 of 600: Response code [200]: Requesting data about brazzaville at lat:-4.2591667, lon:15.284722200000001
+[142.8701567445675] Request 113 of 600: Response code [200]: Requesting data about safford at lat:32.833888900000005, lon:-109.7069444
+[143.03415621992596] Request 114 of 600: Response code [200]: Requesting data about havelock at lat:-41.28333300000001, lon:173.766667
+[143.28890446308782] Request 115 of 600: Response code [200]: Requesting data about beringovskiy at lat:63.050000000000004, lon:179.316667
+[143.45138690260788] Request 116 of 600: Response code [200]: Requesting data about delta at lat:32.355, lon:-115.193056
+[143.61169373890866] Request 117 of 600: Response code [200]: Requesting data about zeya at lat:53.75, lon:127.266667
+[143.7779833852971] Request 118 of 600: Response code [200]: Requesting data about cooma at lat:-36.234692, lon:149.125977
+[144.01737914676215] Request 119 of 600: Response code [200]: Requesting data about tangshan at lat:37.33250000000001, lon:114.70138900000002
+[144.0903608174927] Request 120 of 600: Response code [200]: Requesting data about longview at lat:46.13833329999999, lon:-122.9369444
+[144.25406241654326] Request 121 of 600: Response code [200]: Requesting data about novoagansk at lat:61.9449, lon:76.66250000000001
+[144.52906940913033] Request 122 of 600: Response code [200]: Requesting data about draguignan at lat:43.536545, lon:6.463455
+[144.69378789626634] Request 123 of 600: Response code [200]: Requesting data about mitrofanovka at lat:49.970833000000006, lon:39.693889
+[144.95912299526086] Request 124 of 600: Response code [200]: Requesting data about kalaleh at lat:37.38071200000001, lon:55.491639
+[145.12027960866797] Request 125 of 600: Response code [200]: Requesting data about laguna beach at lat:33.542222200000005, lon:-117.7822222
+[145.35440485577888] Request 126 of 600: Response code [200]: Requesting data about imeni poliny osipenko at lat:52.42009999999999, lon:136.4853
+[145.51266645912773] Request 127 of 600: Response code [200]: Requesting data about dzhebariki-khaya at lat:62.216667, lon:135.80000000000004
+[145.67451166458338] Request 128 of 600: Response code [200]: Requesting data about yei at lat:4.0913889, lon:30.6786111
+[145.82724398835043] Request 129 of 600: Response code [200]: Requesting data about kaiyuan at lat:23.697668, lon:103.303723
+[146.15481271718502] Request 130 of 600: Response code [200]: Requesting data about ano mera at lat:37.45, lon:25.399999999999995
+[146.31539135574016] Request 131 of 600: Response code [200]: Requesting data about eskasem at lat:36.706932, lon:71.570658
+[146.47898865857687] Request 132 of 600: Response code [200]: Requesting data about mocambique at lat:-15.0341667, lon:40.7358333
+[146.6427131711896] Request 133 of 600: Response code [200]: Requesting data about derventa at lat:44.9772222, lon:17.910277799999996
+[146.79845586294846] Request 134 of 600: Response code [200]: Requesting data about sauda at lat:59.65000000000001, lon:6.333333
+[147.00985401690548] Request 135 of 600: Response code [200]: Requesting data about pervomayskoye at lat:57.0761, lon:86.23130000000002
+[147.16732865791315] Request 136 of 600: Response code [200]: Requesting data about ondjiva at lat:-17.066667, lon:15.733332999999998
+[147.2362941342861] Request 137 of 600: Response code [200]: Requesting data about lima at lat:40.74249999999999, lon:-84.10527780000001
+[147.47416930436006] Request 138 of 600: Response code [200]: Requesting data about arinos at lat:-15.916667000000004, lon:-46.066667
+[147.72463587189264] Request 139 of 600: Response code [200]: Requesting data about marmato at lat:5.478427, lon:-75.592667
+[147.8879447798955] Request 140 of 600: Response code [200]: Requesting data about yuryevets at lat:57.32007300000002, lon:43.104099999999995
+[148.0517593665111] Request 141 of 600: Response code [200]: Requesting data about simpang at lat:-1.2666670000000002, lon:104.083333
+[148.23325611199516] Request 142 of 600: Response code [200]: Requesting data about nakhon si thammarat at lat:8.433333000000001, lon:99.966667
+[148.41250140246802] Request 143 of 600: Response code [200]: Requesting data about bonfim at lat:3.083333, lon:-59.95000000000002
+[148.60744761880682] Request 144 of 600: Response code [200]: Requesting data about vallenar at lat:-28.570833000000004, lon:-70.758056
+[148.77307988299862] Request 145 of 600: Response code [200]: Requesting data about gornyy at lat:50.760833000000005, lon:136.439722
+[148.94656320271548] Request 146 of 600: Response code [200]: Requesting data about parana at lat:-31.731967000000004, lon:-60.523801999999996
+[149.02288077204483] Request 147 of 600: Response code [200]: Requesting data about dunmore town at lat:25.5, lon:-76.65
+[149.34504822119646] Request 148 of 600: Response code [200]: Requesting data about luohe at lat:33.571667, lon:114.035278
+[149.5006439501085] Request 149 of 600: Response code [200]: Requesting data about kitgum at lat:3.2783333, lon:32.8866667
+[149.66647018945565] Request 150 of 600: Response code [200]: Requesting data about gewane at lat:10.166388999999999, lon:40.645278
+[149.73720238048207] Request 151 of 600: Response code [200]: Requesting data about hagerstown at lat:39.641666699999995, lon:-77.7202778
+[149.9119443658711] Request 152 of 600: Response code [200]: Requesting data about qiongshan at lat:20.005833, lon:110.35416700000002
+[150.07565189084295] Request 153 of 600: Response code [200]: Requesting data about ulcinj at lat:41.92833300000001, lon:19.206389000000005
+[150.33178205883885] Request 154 of 600: Response code [200]: Requesting data about rudbar at lat:30.149999999999995, lon:62.6
+[150.49624020050157] Request 155 of 600: Response code [200]: Requesting data about puruliya at lat:23.333333, lon:86.366667
+[150.66048184850817] Request 156 of 600: Response code [200]: Requesting data about tambovka at lat:47.31528300000001, lon:47.37773
+[150.8238879416194] Request 157 of 600: Response code [200]: Requesting data about monywa at lat:22.116666699999996, lon:95.13333330000002
+[151.14591909458244] Request 158 of 600: Response code [200]: Requesting data about mayor pablo lagerenza at lat:-19.916667000000007, lon:-60.783333
+[151.36420514433175] Request 159 of 600: Response code [200]: Requesting data about posadas at lat:-27.367077, lon:-55.896078
+[151.52358477148857] Request 160 of 600: Response code [200]: Requesting data about panorama at lat:-21.35, lon:-51.85
+[151.68569071747893] Request 161 of 600: Response code [200]: Requesting data about solano at lat:0.6993699999999999, lon:-75.253526
+[151.8410616564451] Request 162 of 600: Response code [200]: Requesting data about xining at lat:36.616667, lon:101.766667
+[152.0634519992478] Request 163 of 600: Response code [200]: Requesting data about chimala at lat:-8.85, lon:34.01666670000001
+[152.27123218075482] Request 164 of 600: Response code [200]: Requesting data about bartica at lat:6.4, lon:-58.6166667
+[152.43752222220468] Request 165 of 600: Response code [200]: Requesting data about cedar falls at lat:42.5277778, lon:-92.4452778
+[152.4376597035775] Reaching request limit.  Waiting for 60 seconds...
+[212.83287084810203] Request 166 of 600: Response code [200]: Requesting data about pula at lat:44.86833330000001, lon:13.8480556
+[212.99531654691037] Request 167 of 600: Response code [200]: Requesting data about manoel urbano at lat:-8.883333, lon:-69.3
+[213.16178950179594] Request 168 of 600: Response code [200]: Requesting data about farafangana at lat:-22.816666699999995, lon:47.8333333
+[213.3197156980024] Request 169 of 600: Response code [200]: Requesting data about sola at lat:-13.883333300000002, lon:167.55000000000004
+[213.49182143856083] Request 170 of 600: Response code [200]: Requesting data about san pedro at lat:-18.2833333, lon:-59.8166667
+[213.72657838887633] Request 171 of 600: Response code [200]: Requesting data about piacabucu at lat:-10.4, lon:-36.41666699999999
+[213.88401984472506] Request 172 of 600: Response code [200]: Requesting data about bogoslovka at lat:53.208372, lon:44.801328
+[213.95484131963156] Request 173 of 600: Response code [200]: Requesting data about cape canaveral at lat:28.405555599999996, lon:-80.605
+[214.1015406605111] Request 174 of 600: Response code [200]: Requesting data about bamako at lat:12.650000000000002, lon:-8.0
+[214.24462716473903] Request 175 of 600: Response code [200]: Requesting data about villanueva de cordoba at lat:38.322774, lon:-4.628725
+[214.4013476335031] Request 176 of 600: Response code [200]: Requesting data about tongzi at lat:28.1375, lon:106.82
+[214.54307907707332] Request 177 of 600: Response code [200]: Requesting data about east london at lat:-33.011051, lon:27.910049
+[214.68877851750833] Request 178 of 600: Response code [200]: Requesting data about tias at lat:28.961076000000006, lon:-13.645020999999998
+[214.831800231664] Request 179 of 600: Response code [200]: Requesting data about oxelosund at lat:58.666667, lon:17.1
+[214.97549710578008] Request 180 of 600: Response code [200]: Requesting data about ciudad guayana at lat:8.3533333, lon:-62.65277779999999
+[215.120100250785] Request 181 of 600: Response code [200]: Requesting data about kibala at lat:-10.73366, lon:14.979949
+[215.26617816005677] Request 182 of 600: Response code [200]: Requesting data about jacareacanga at lat:-6.266667, lon:-57.65
+[215.41860826184038] Request 183 of 600: Response code [200]: Requesting data about malakal at lat:9.536944399999998, lon:31.656111100000007
+[215.60525305263957] Request 184 of 600: Response code [200]: Requesting data about giyani at lat:-23.30246, lon:30.718682
+[215.76459040822488] Request 185 of 600: Response code [200]: Requesting data about russkaya polyana at lat:53.77944400000001, lon:73.880556
+[216.08584921611913] Request 186 of 600: Response code [200]: Requesting data about karkaralinsk at lat:49.405833000000015, lon:75.474167
+[216.2960305809141] Request 187 of 600: Response code [200]: Requesting data about marinette at lat:45.10000000000001, lon:-87.6305556
+[216.451419297644] Request 188 of 600: Response code [200]: Requesting data about nieuw nickerie at lat:5.949999999999999, lon:-56.983333300000005
+[216.52353499375013] Request 189 of 600: Response code [200]: Requesting data about hashtrud at lat:37.47789999999999, lon:47.050799999999995
+[216.81980142632975] Request 190 of 600: Response code [200]: Requesting data about la cruz at lat:23.916667, lon:-106.9
+[216.89087376523554] Request 191 of 600: Response code [200]: Requesting data about neuquen at lat:-38.95160599999999, lon:-68.059102
+[217.0551659811034] Request 192 of 600: Response code [200]: Requesting data about carlibaba at lat:47.58333300000001, lon:25.133333
+[217.2140308432349] Request 193 of 600: Response code [200]: Requesting data about polonnaruwa at lat:7.933333299999999, lon:81.0
+[217.37422982776903] Request 194 of 600: Response code [200]: Requesting data about nouadhibou at lat:20.900000000000002, lon:-17.0666667
+[217.6508170660211] Request 195 of 600: Response code [200]: Requesting data about dunkwa at lat:5.966666700000001, lon:-1.7833333
+[217.8057321041129] Request 196 of 600: Response code [200]: Requesting data about izhevskoye at lat:54.557, lon:40.87530000000002
+[217.96777365509243] Request 197 of 600: Response code [200]: Requesting data about banyo at lat:6.75, lon:11.8166667
+[218.13044098335527] Request 198 of 600: Response code [200]: Requesting data about rapid valley at lat:44.06249999999999, lon:-103.1458333
+[218.35336031339432] Request 199 of 600: Response code [200]: Requesting data about otane at lat:-39.883333, lon:176.633333
+[218.59230412459922] Request 200 of 600: Response code [200]: Requesting data about oktyabrskiy at lat:56.072058000000006, lon:42.122715
+[218.75755475946292] Request 201 of 600: Response code [200]: Requesting data about pangai at lat:-19.800000000000004, lon:-174.35000000000002
+[218.92489526921855] Request 202 of 600: Response code [200]: Requesting data about ruteng at lat:-8.6136, lon:120.4721
+[222.09319972882983] Request 203 of 600: Response code [200]: Requesting data about pita at lat:11.0833333, lon:-12.4
+[222.2626925331812] Request 204 of 600: Response code [200]: Requesting data about chengde at lat:40.770278000000005, lon:118.169722
+[222.42544677495565] Request 205 of 600: Response code [200]: Requesting data about bastia at lat:42.70277800000001, lon:9.450000000000001
+[222.7710058105633] Request 206 of 600: Response code [200]: Requesting data about cerro de pasco at lat:-10.6833333, lon:-76.2666667
+[222.9239625292148] Request 207 of 600: Response code [200]: Requesting data about jalingo at lat:8.883333000000004, lon:11.366667000000001
+[223.0919221002097] Request 208 of 600: Response code [200]: Requesting data about pemagatsel at lat:27.0333333, lon:91.45
+[223.25327900975486] Request 209 of 600: Response code [200]: Requesting data about myitkyina at lat:25.3833333, lon:97.4
+[223.41527710397858] Request 210 of 600: Response code [200]: Requesting data about khash at lat:28.221072, lon:61.215819
+[223.6089622842767] Request 211 of 600: Response code [200]: Requesting data about prince george at lat:53.916667000000004, lon:-122.766667
+[223.92330791244808] Request 212 of 600: Response code [200]: Requesting data about hualmay at lat:-11.090277799999999, lon:-77.6294444
+[224.08113257787056] Request 213 of 600: Response code [200]: Requesting data about poronaysk at lat:49.21666700000001, lon:143.116667
+[224.24395398008573] Request 214 of 600: Response code [200]: Requesting data about the pas at lat:53.816667, lon:-101.233333
+[224.3182567361922] Request 215 of 600: Response code [200]: Requesting data about bakaly at lat:55.178889, lon:53.802778
+[224.39670961247634] Request 216 of 600: Response code [200]: Requesting data about santa maria del oro at lat:25.933333, lon:-105.366667
+[224.65354931077584] Request 217 of 600: Response code [200]: Requesting data about mwinilunga at lat:-11.7333333, lon:24.4333333
+[224.80895422502383] Request 218 of 600: Response code [200]: Requesting data about viseu at lat:-1.2, lon:-46.116667
+[225.0732511026164] Request 219 of 600: Response code [200]: Requesting data about vila do maio at lat:15.133333299999999, lon:-23.2166667
+[225.24081916774782] Request 220 of 600: Response code [200]: Requesting data about aqtobe at lat:50.29805599999999, lon:57.181389
+[225.24095901948917] Reaching request limit.  Waiting for 60 seconds...
+[285.6294086878746] Request 221 of 600: Response code [200]: Requesting data about mango at lat:10.3591667, lon:0.4708333000000001
+[285.8621808496349] Request 222 of 600: Response code [200]: Requesting data about alto longa at lat:-5.25, lon:-42.199999999999996
+[286.17563403406695] Request 223 of 600: Response code [200]: Requesting data about el bagre at lat:7.592724000000002, lon:-74.80857999999999
+[286.3340734150531] Request 224 of 600: Response code [200]: Requesting data about la palma at lat:7.433333299999998, lon:-80.4833333
+[286.50319762710313] Request 225 of 600: Response code [200]: Requesting data about agua dulce at lat:18.133333, lon:-94.133333
+[286.90571819795105] Request 226 of 600: Response code [200]: Requesting data about businga at lat:3.333333, lon:20.883332999999997
+[286.9715508372932] Request 227 of 600: Response code [200]: Requesting data about dalvik at lat:65.96666700000002, lon:-18.533332999999995
+[287.2209440229578] Request 228 of 600: Response code [200]: Requesting data about tendo at lat:38.353610999999994, lon:140.369722
+[290.3815989083663] Request 229 of 600: Response code [200]: Requesting data about idar at lat:23.833333000000007, lon:73.0
+[290.6225492365043] Request 230 of 600: Response code [200]: Requesting data about waw at lat:7.700000000000002, lon:28.0
+[290.8610703319938] Request 231 of 600: Response code [200]: Requesting data about shivrajpur at lat:22.416667, lon:73.65000000000002
+[291.29489793983373] Request 232 of 600: Response code [200]: Requesting data about villazon at lat:-22.1, lon:-65.6
+[291.6320658709603] Request 233 of 600: Response code [200]: Requesting data about juba at lat:4.85, lon:31.616666700000003
+[291.92376499850667] Request 234 of 600: Response code [200]: Requesting data about ventersburg at lat:-28.085614000000003, lon:27.138143
+[292.2326093964568] Request 235 of 600: Response code [200]: Requesting data about pucallpa at lat:-8.382500000000002, lon:-74.5380556
+[292.3928648747734] Request 236 of 600: Response code [200]: Requesting data about asau at lat:-7.499999999999999, lon:178.6666667
+[292.55635551102773] Request 237 of 600: Response code [200]: Requesting data about aberdeen at lat:45.46472220000001, lon:-98.4861111
+[292.71717632223107] Request 238 of 600: Response code [200]: Requesting data about calabozo at lat:8.934444400000002, lon:-67.4266667
+[293.07194147402157] Request 239 of 600: Response code [200]: Requesting data about inyonga at lat:-6.7166667, lon:32.0666667
+[293.23484188852] Request 240 of 600: Response code [200]: Requesting data about morondava at lat:-20.283333299999995, lon:44.283333299999995
+[293.48878973725255] Request 241 of 600: Response code [200]: Requesting data about oistins at lat:13.0666667, lon:-59.5333333
+[293.6561575062459] Request 242 of 600: Response code [200]: Requesting data about birao at lat:10.283333299999997, lon:22.7833333
+[294.0853032412419] Request 243 of 600: Response code [200]: Requesting data about doljo at lat:9.589444, lon:123.72694400000003
+[294.2833396279786] Request 244 of 600: Response code [200]: Requesting data about agva at lat:41.13805600000001, lon:29.856667
+[294.5342214050596] Request 245 of 600: Response code [200]: Requesting data about kazalinsk at lat:45.762778, lon:62.1075
+[294.74008632882067] Request 246 of 600: Response code [200]: Requesting data about payson at lat:40.0444444, lon:-111.7313889
+[294.902360175913] Request 247 of 600: Response code [200]: Requesting data about itupiranga at lat:-5.150000000000002, lon:-49.333333
+[295.07009535202343] Request 248 of 600: Response code [200]: Requesting data about orange cove at lat:36.6244444, lon:-119.3127778
+[295.232999717136] Request 249 of 600: Response code [200]: Requesting data about canutama at lat:-6.533333000000001, lon:-64.333333
+[295.42190188886764] Request 250 of 600: Response code [200]: Requesting data about nagua at lat:19.3833333, lon:-69.8333333
+[295.6127090467484] Request 251 of 600: Response code [200]: Requesting data about shagonar at lat:51.533333, lon:92.8
+[296.0671446383055] Request 252 of 600: Response code [200]: Requesting data about bolshoy tsaryn at lat:47.85194400000002, lon:45.424167
+[296.3068698809917] Request 253 of 600: Response code [200]: Requesting data about lorengau at lat:-2.0166667, lon:147.2666667
+[296.47959112723663] Request 254 of 600: Response code [200]: Requesting data about terra santa at lat:-2.1000000000000005, lon:-56.483333
+[296.7335488525046] Request 255 of 600: Response code [200]: Requesting data about nanma at lat:36.181667, lon:118.158333
+[296.8965938594814] Request 256 of 600: Response code [200]: Requesting data about yarkovo at lat:54.8056, lon:82.5989
+[297.05625239999813] Request 257 of 600: Response code [200]: Requesting data about kuala kedah at lat:6.105146, lon:100.28520100000001
+[297.2183741484451] Request 258 of 600: Response code [200]: Requesting data about bandundu at lat:-3.316667, lon:17.366667
+[297.37921234235074] Request 259 of 600: Response code [200]: Requesting data about warwick at lat:-28.219009, lon:152.03437800000003
+[297.6625681678474] Request 260 of 600: Response code [200]: Requesting data about bal-os at lat:9.441599999999998, lon:122.62570000000001
+[297.81596221948666] Request 261 of 600: Response code [200]: Requesting data about yar-sale at lat:66.83333300000001, lon:70.833333
+[297.9848177897736] Request 262 of 600: Response code [200]: Requesting data about verkhneuralsk at lat:53.876944, lon:59.210556000000004
+[298.28781053802624] Request 263 of 600: Response code [200]: Requesting data about nova era at lat:-19.750000000000004, lon:-43.05
+[298.44741021439194] Request 264 of 600: Response code [200]: Requesting data about yuzhno-yeniseyskiy at lat:58.79583299999999, lon:94.706389
+[298.6615050575763] Request 265 of 600: Response code [200]: Requesting data about sampit at lat:-2.533333, lon:112.95
+[298.8386221521998] Request 266 of 600: Response code [200]: Requesting data about corner brook at lat:48.949999999999996, lon:-57.933333
+[299.1275894300528] Request 267 of 600: Response code [200]: Requesting data about gangotri at lat:30.983332999999995, lon:78.93333299999999
+[299.33877030023086] Request 268 of 600: Response code [200]: Requesting data about waycross at lat:31.2133333, lon:-82.3541667
+[299.75740740155464] Request 269 of 600: Response code [200]: Requesting data about coburg at lat:50.25, lon:10.966667000000001
+[299.91051305836004] Request 270 of 600: Response code [200]: Requesting data about guabito at lat:9.5, lon:-82.6166667
+[300.11270035539724] Request 271 of 600: Response code [200]: Requesting data about baglan at lat:36.130684, lon:68.708286
+[300.28135562954617] Request 272 of 600: Response code [200]: Requesting data about pagudpud at lat:18.5616, lon:120.7868
+[300.48387912384857] Request 273 of 600: Response code [200]: Requesting data about ceres at lat:-33.36889200000001, lon:19.310955000000003
+[300.64376521974106] Request 274 of 600: Response code [200]: Requesting data about sao geraldo do araguaia at lat:-6.4, lon:-48.533333
+[301.1112635170264] Request 275 of 600: Response code [200]: Requesting data about lebu at lat:-37.61666700000001, lon:-73.65000000000002
+[301.11140929468894] Reaching request limit.  Waiting for 60 seconds...
+[361.50041481448704] Request 276 of 600: Response code [200]: Requesting data about katha at lat:24.1833333, lon:96.34999999999998
+[361.6404032470888] Request 277 of 600: Response code [200]: Requesting data about senanga at lat:-16.1166667, lon:23.2666667
+[361.7841953310062] Request 278 of 600: Response code [200]: Requesting data about salmas at lat:38.1973, lon:44.76530000000001
+[361.84348654341807] Request 279 of 600: Response code [200]: Requesting data about ciudad dario at lat:12.7305556, lon:-86.12499999999999
+[361.98696178807955] Request 280 of 600: Response code [200]: Requesting data about charters towers at lat:-20.076710000000002, lon:146.263535
+[362.1333355983521] Request 281 of 600: Response code [200]: Requesting data about georgetown at lat:-7.933333300000001, lon:-14.416666700000002
+[362.2873577976432] Request 282 of 600: Response code [200]: Requesting data about szabadszallas at lat:46.875752, lon:19.223243999999998
+[362.42671097148764] Request 283 of 600: Response code [200]: Requesting data about tunxi at lat:29.711389, lon:118.31249999999997
+[362.57836319734264] Request 284 of 600: Response code [200]: Requesting data about saint-nazaire at lat:47.27988299999999, lon:-2.208804
+[362.9480486336406] Request 285 of 600: Response code [200]: Requesting data about khani at lat:57.033333000000006, lon:120.96666700000002
+[363.1059147805118] Request 286 of 600: Response code [200]: Requesting data about kovylkino at lat:54.038764, lon:43.913855
+[363.2671026037708] Request 287 of 600: Response code [200]: Requesting data about laguna de perlas at lat:12.35, lon:-83.66666669999998
+[363.465695632043] Request 288 of 600: Response code [200]: Requesting data about snyder at lat:32.7177778, lon:-100.91722220000001
+[363.75206814651403] Request 289 of 600: Response code [200]: Requesting data about ferkessedougou at lat:9.5928, lon:-5.1944870000000005
+[363.9042604213251] Request 290 of 600: Response code [200]: Requesting data about qandahar at lat:31.613323000000012, lon:65.710126
+[364.058778817755] Request 291 of 600: Response code [200]: Requesting data about bima at lat:-8.466667, lon:118.716667
+[364.2261062904839] Request 292 of 600: Response code [200]: Requesting data about esso at lat:55.93333299999999, lon:158.7
+[364.3942764292137] Request 293 of 600: Response code [200]: Requesting data about nortelandia at lat:-14.416666999999997, lon:-56.8
+[364.54706248133334] Request 294 of 600: Response code [200]: Requesting data about willowmore at lat:-33.29264700000002, lon:23.489537000000006
+[364.82731075372976] Request 295 of 600: Response code [200]: Requesting data about barentu at lat:15.1138889, lon:37.5927778
+[364.9955203986012] Request 296 of 600: Response code [200]: Requesting data about herat at lat:34.34816699999999, lon:62.199673000000004
+[365.15989873785776] Request 297 of 600: Response code [200]: Requesting data about karamea at lat:-41.250000000000014, lon:172.116667
+[365.2237667367769] Request 298 of 600: Response code [200]: Requesting data about beatrice at lat:40.268055600000004, lon:-96.7466667
+[365.37398449462955] Request 299 of 600: Response code [200]: Requesting data about glens falls at lat:43.3094444, lon:-73.64444439999998
+[365.57063263554954] Request 300 of 600: Response code [200]: Requesting data about meilu at lat:21.457130000000003, lon:110.765907
+[365.7408965997854] Request 301 of 600: Response code [200]: Requesting data about makung at lat:23.5666667, lon:119.5666667
+[365.88511416484806] Request 302 of 600: Response code [200]: Requesting data about sena madureira at lat:-9.066667, lon:-68.666667
+[366.1855287422983] Request 303 of 600: Response code [200]: Requesting data about finschhafen at lat:-6.600000000000001, lon:147.85
+[367.0183573188288] Request 304 of 600: Response code [200]: Requesting data about thinadhoo at lat:0.5333333000000001, lon:72.9333333
+[367.1654386840978] Request 305 of 600: Response code [200]: Requesting data about santa rosa at lat:-14.1666667, lon:-66.8833333
+[367.33171055272254] Request 306 of 600: Response code [200]: Requesting data about petauke at lat:-14.25, lon:31.333333299999996
+[367.4891512184484] Request 307 of 600: Response code [200]: Requesting data about pontal do parana at lat:-25.580000000000002, lon:-48.354167
+[367.8531789802043] Request 308 of 600: Response code [200]: Requesting data about shimanovsk at lat:52.000000000000014, lon:127.70000000000003
+[368.01555080252774] Request 309 of 600: Response code [200]: Requesting data about cockburn harbour at lat:21.4833333, lon:-71.5333333
+[368.0966490100551] Request 310 of 600: Response code [200]: Requesting data about paducah at lat:37.08333329999999, lon:-88.59999999999998
+[368.24633185475017] Request 311 of 600: Response code [200]: Requesting data about khirkiya at lat:22.166667, lon:76.85000000000001
+[368.58181089832226] Request 312 of 600: Response code [200]: Requesting data about gbarnga at lat:6.995555600000001, lon:-9.472222199999997
+[368.79074544928756] Request 313 of 600: Response code [200]: Requesting data about vanavara at lat:60.34, lon:102.279722
+[368.94464675978526] Request 314 of 600: Response code [200]: Requesting data about kinango at lat:-4.133333300000001, lon:39.3166667
+[369.21519627441285] Request 315 of 600: Response code [200]: Requesting data about champua at lat:22.083333000000003, lon:85.666667
+[369.37941461379586] Request 316 of 600: Response code [200]: Requesting data about bandar-e lengeh at lat:26.557918, lon:54.880669
+[369.454579788974] Request 317 of 600: Response code [200]: Requesting data about itoigawa at lat:37.033333, lon:137.85
+[369.62414646981017] Request 318 of 600: Response code [200]: Requesting data about abalak at lat:15.4522222, lon:6.2783333
+[369.7857783421011] Request 319 of 600: Response code [200]: Requesting data about kodiak at lat:57.79, lon:-152.40722219999998
+[369.9656217555581] Request 320 of 600: Response code [200]: Requesting data about moa at lat:20.656944400000004, lon:-74.9402778
+[370.13814823652484] Request 321 of 600: Response code [200]: Requesting data about kapustin yar at lat:48.581752000000016, lon:45.744807
+[370.28957330206555] Request 322 of 600: Response code [200]: Requesting data about esperance at lat:-33.86013, lon:121.882591
+[370.4410485404061] Request 323 of 600: Response code [200]: Requesting data about puerto penasco at lat:31.316667, lon:-113.533333
+[370.6792836114302] Request 324 of 600: Response code [200]: Requesting data about ningan at lat:44.383333, lon:129.433333
+[370.84644397318004] Request 325 of 600: Response code [200]: Requesting data about aksay at lat:51.167778, lon:52.995
+[371.09188970517357] Request 326 of 600: Response code [200]: Requesting data about kavaratti at lat:10.566667, lon:72.616667
+[371.2517003443355] Request 327 of 600: Response code [200]: Requesting data about hay river at lat:60.85, lon:-115.7
+[371.41035305848646] Request 328 of 600: Response code [200]: Requesting data about mahadday weyne at lat:2.9666667000000007, lon:45.53333330000001
+[371.6118888992483] Request 329 of 600: Response code [200]: Requesting data about stornoway at lat:58.216667, lon:-6.3666670000000005
+[371.780125408296] Request 330 of 600: Response code [200]: Requesting data about almeirim at lat:-1.533333, lon:-52.566667
+[371.78035612416306] Reaching request limit.  Waiting for 60 seconds...
+[432.2208740970871] Request 331 of 600: Response code [200]: Requesting data about chenghai at lat:23.461318999999996, lon:116.77007099999999
+[432.39367356549246] Request 332 of 600: Response code [200]: Requesting data about jinji at lat:23.228056000000006, lon:110.82611100000001
+[432.67605991027364] Request 333 of 600: Response code [200]: Requesting data about oktyabrskoye at lat:62.458333, lon:66.034167
+[432.98514450556485] Request 334 of 600: Response code [200]: Requesting data about sal rei at lat:16.1833333, lon:-22.916666700000004
+[433.2396979834485] Request 335 of 600: Response code [200]: Requesting data about bow island at lat:49.866667, lon:-111.36666699999999
+[433.4535415675721] Request 336 of 600: Response code [200]: Requesting data about ilembula at lat:-8.900000000000002, lon:34.5833333
+[433.6207311638667] Request 337 of 600: Response code [200]: Requesting data about osmena at lat:10.520833, lon:119.925833
+[433.777120571164] Request 338 of 600: Response code [200]: Requesting data about mazagao at lat:-0.11666699999999999, lon:-51.283333
+[433.9727506388143] Request 339 of 600: Response code [200]: Requesting data about irbil at lat:36.19, lon:44.008888899999995
+[434.2848116268155] Request 340 of 600: Response code [200]: Requesting data about general roca at lat:-39.02797, lon:-67.57371100000002
+[434.442909674738] Request 341 of 600: Response code [200]: Requesting data about pachora at lat:20.666667, lon:75.35
+[434.6140068235008] Request 342 of 600: Response code [200]: Requesting data about sao miguel do oeste at lat:-26.75, lon:-53.56666700000002
+[434.75879564737136] Request 343 of 600: Response code [200]: Requesting data about port moresby at lat:-9.4647222, lon:147.1925
+[434.94188172493295] Request 344 of 600: Response code [200]: Requesting data about betanzos at lat:43.280418000000004, lon:-8.214674
+[435.1021190304245] Request 345 of 600: Response code [200]: Requesting data about griffin at lat:33.2466667, lon:-84.2641667
+[435.2634949029176] Request 346 of 600: Response code [200]: Requesting data about aksha at lat:50.281389, lon:113.286667
+[435.41401053707807] Request 347 of 600: Response code [200]: Requesting data about popondetta at lat:-8.7666667, lon:148.2333333
+[435.5650350103427] Request 348 of 600: Response code [200]: Requesting data about bo rai at lat:12.572834, lon:102.53713900000001
+[435.718546790284] Request 349 of 600: Response code [200]: Requesting data about hvammstangi at lat:65.4, lon:-20.95
+[435.87372375409484] Request 350 of 600: Response code [200]: Requesting data about lokot at lat:52.565, lon:34.5776
+[436.0374577481815] Request 351 of 600: Response code [200]: Requesting data about volda at lat:62.15, lon:6.099999999999998
+[436.3743092351137] Request 352 of 600: Response code [200]: Requesting data about linqing at lat:36.845555999999995, lon:115.711667
+[436.538670191668] Request 353 of 600: Response code [200]: Requesting data about terney at lat:45.050278, lon:136.609167
+[436.89312284987824] Request 354 of 600: Response code [200]: Requesting data about bemidji at lat:47.4736111, lon:-94.88
+[437.06126493924745] Request 355 of 600: Response code [200]: Requesting data about dien bien at lat:21.383333, lon:103.016667
+[437.23130727402884] Request 356 of 600: Response code [200]: Requesting data about nizhneyansk at lat:71.43333300000002, lon:136.06666699999997
+[437.41796312654765] Request 357 of 600: Response code [200]: Requesting data about yima at lat:34.738056, lon:111.88388899999998
+[437.58417178534575] Request 358 of 600: Response code [200]: Requesting data about grand-santi at lat:4.25, lon:-54.3833333
+[437.6640938950369] Request 359 of 600: Response code [200]: Requesting data about yangjiang at lat:21.850000000000005, lon:111.96666699999999
+[437.8336992918919] Request 360 of 600: Response code [200]: Requesting data about antsohihy at lat:-14.8666667, lon:47.9833333
+[437.98296455666997] Request 361 of 600: Response code [200]: Requesting data about svay rieng at lat:11.0833333, lon:105.8
+[438.1501584986402] Request 362 of 600: Response code [200]: Requesting data about junin at lat:-34.583816, lon:-60.943318
+[438.2995233188952] Request 363 of 600: Response code [200]: Requesting data about kamina at lat:-8.738611000000002, lon:24.990556
+[438.4595306986424] Request 364 of 600: Response code [200]: Requesting data about tsnori at lat:41.6169444, lon:45.97194439999999
+[438.6692356193694] Request 365 of 600: Response code [200]: Requesting data about nkawkaw at lat:6.550000000000001, lon:-0.7666667
+[438.88118922967766] Request 366 of 600: Response code [200]: Requesting data about cunha at lat:-23.083333000000003, lon:-44.966666999999994
+[439.0577030655186] Request 367 of 600: Response code [200]: Requesting data about ongandjera at lat:-17.8833333, lon:15.066666699999999
+[439.22450273619535] Request 368 of 600: Response code [200]: Requesting data about labuan at lat:7.100747999999999, lon:121.90238
+[439.5208940081825] Request 369 of 600: Response code [200]: Requesting data about nome at lat:64.5011111, lon:-165.4063889
+[439.68490138476926] Request 370 of 600: Response code [200]: Requesting data about bassila at lat:9.0166667, lon:1.6666667
+[440.02855227373647] Request 371 of 600: Response code [200]: Requesting data about bundibugyo at lat:0.7413889, lon:30.041666699999997
+[440.1877059257632] Request 372 of 600: Response code [200]: Requesting data about merauke at lat:-8.466667, lon:140.33333299999998
+[440.4831620873781] Request 373 of 600: Response code [200]: Requesting data about lososina at lat:48.997494999999994, lon:140.310638
+[440.6501960294747] Request 374 of 600: Response code [200]: Requesting data about tabukiniberu at lat:-1.35, lon:175.9833333
+[440.8117204450604] Request 375 of 600: Response code [200]: Requesting data about korem at lat:12.505833, lon:39.522778
+[440.9682793337052] Request 376 of 600: Response code [200]: Requesting data about lingao at lat:19.907778000000004, lon:109.685833
+[441.12520562946713] Request 377 of 600: Response code [200]: Requesting data about kintampo at lat:8.05, lon:-1.7166667000000002
+[441.386274855289] Request 378 of 600: Response code [200]: Requesting data about kisiwani at lat:-4.133333300000001, lon:37.95
+[441.56376133233675] Request 379 of 600: Response code [200]: Requesting data about multai at lat:21.766667, lon:78.25
+[441.8005485032703] Request 380 of 600: Response code [200]: Requesting data about cap-aux-meules at lat:47.383333, lon:-61.866667000000014
+[441.9492207808626] Request 381 of 600: Response code [200]: Requesting data about wagar at lat:16.152777799999996, lon:36.2041667
+[442.11648583388774] Request 382 of 600: Response code [200]: Requesting data about niltepec at lat:16.566667, lon:-94.616667
+[442.4303404007187] Request 383 of 600: Response code [200]: Requesting data about harper at lat:4.375, lon:-7.716944399999998
+[442.5003658268715] Request 384 of 600: Response code [200]: Requesting data about hanzhong at lat:33.07277800000001, lon:107.030278
+[442.6754677132107] Request 385 of 600: Response code [200]: Requesting data about san ramon at lat:-14.483333299999998, lon:-63.150000000000006
+[442.6756798611912] Reaching request limit.  Waiting for 60 seconds...
+[503.05775086794995] Request 386 of 600: Response code [200]: Requesting data about karaul at lat:70.07666700000001, lon:83.191389
+[503.20288734586677] Request 387 of 600: Response code [200]: Requesting data about poindimie at lat:-20.933333299999997, lon:165.3333333
+[503.2949733965642] Request 388 of 600: Response code [200]: Requesting data about pozoblanco at lat:38.379061, lon:-4.848268
+[503.5119344103234] Request 389 of 600: Response code [200]: Requesting data about bolgar at lat:54.949999999999996, lon:49.06666700000001
+[503.6729563077876] Request 390 of 600: Response code [200]: Requesting data about kangundo at lat:-1.3000000000000003, lon:37.35
+[503.8193194514019] Request 391 of 600: Response code [200]: Requesting data about nanchang at lat:28.55, lon:115.933333
+[503.98064278072667] Request 392 of 600: Response code [200]: Requesting data about buritis at lat:-15.616667, lon:-46.433333
+[504.1426159860812] Request 393 of 600: Response code [200]: Requesting data about abha at lat:18.216389000000003, lon:42.50527799999998
+[504.3060844988962] Request 394 of 600: Response code [200]: Requesting data about huejuquilla el alto at lat:22.6, lon:-103.866667
+[504.4688920739618] Request 395 of 600: Response code [200]: Requesting data about fowa at lat:31.202499999999993, lon:30.5472222
+[504.6282574789077] Request 396 of 600: Response code [200]: Requesting data about payyannur at lat:12.100000000000001, lon:75.2
+[504.7879859452951] Request 397 of 600: Response code [200]: Requesting data about guozhen at lat:34.365907, lon:107.359045
+[504.99669175570034] Request 398 of 600: Response code [200]: Requesting data about berbera at lat:10.4355556, lon:45.0163889
+[505.1617606623126] Request 399 of 600: Response code [200]: Requesting data about ada at lat:34.77444440000001, lon:-96.6780556
+[505.3313573678164] Request 400 of 600: Response code [200]: Requesting data about linares at lat:24.857778, lon:-99.567778
+[505.4118957733169] Request 401 of 600: Response code [200]: Requesting data about yakeshi at lat:49.283333000000006, lon:120.73333299999999
+[505.57356043570536] Request 402 of 600: Response code [200]: Requesting data about annau at lat:37.888333300000006, lon:58.5280556
+[505.74352612857194] Request 403 of 600: Response code [200]: Requesting data about jingdezhen at lat:29.29469999999999, lon:117.207887
+[505.9068330612677] Request 404 of 600: Response code [200]: Requesting data about chiscas at lat:6.552358000000002, lon:-72.499761
+[506.26950576236584] Request 405 of 600: Response code [200]: Requesting data about lhokseumawe at lat:5.180100000000002, lon:97.1507
+[509.42106514878805] Request 406 of 600: Response code [200]: Requesting data about khovu-aksy at lat:51.133333, lon:93.59999999999998
+[509.5687031555926] Request 407 of 600: Response code [200]: Requesting data about theog at lat:31.116667, lon:77.35
+[509.71134561078867] Request 408 of 600: Response code [200]: Requesting data about mancio lima at lat:-7.616667, lon:-72.9
+[509.8582523589117] Request 409 of 600: Response code [200]: Requesting data about tall kayf at lat:36.489444400000004, lon:43.1191667
+[510.0214672422975] Request 410 of 600: Response code [200]: Requesting data about sur at lat:22.5666667, lon:59.5288889
+[510.1831105713694] Request 411 of 600: Response code [200]: Requesting data about sumbawanga at lat:-7.966666700000003, lon:31.616666700000003
+[510.36048998677336] Request 412 of 600: Response code [200]: Requesting data about tevriz at lat:57.509000000000015, lon:72.4042
+[510.633376289678] Request 413 of 600: Response code [200]: Requesting data about ola at lat:59.58333300000001, lon:151.283333
+[510.80286119280106] Request 414 of 600: Response code [200]: Requesting data about mozarlandia at lat:-14.783333000000002, lon:-50.583333
+[511.02219336518056] Request 415 of 600: Response code [200]: Requesting data about las palmas at lat:28.099727, lon:-15.41343
+[511.2249444148587] Request 416 of 600: Response code [200]: Requesting data about anadyr at lat:64.74999999999999, lon:177.483333
+[511.4103119720992] Request 417 of 600: Response code [200]: Requesting data about florencia at lat:1.6143819999999998, lon:-75.606229
+[511.4916219325456] Request 418 of 600: Response code [200]: Requesting data about nagycserkesz at lat:47.96666700000001, lon:21.533333
+[511.6577156284716] Request 419 of 600: Response code [200]: Requesting data about nazare da mata at lat:-7.733333, lon:-35.233333
+[511.72747557335265] Request 420 of 600: Response code [200]: Requesting data about benjamin hill at lat:30.16666700000001, lon:-111.1
+[511.8402296571025] Request 421 of 600: Response code [200]: Requesting data about lima at lat:-12.05, lon:-77.05000000000001
+[512.0005692835008] Request 422 of 600: Response code [200]: Requesting data about cotonou at lat:6.35, lon:2.4333332999999997
+[512.1582043194435] Request 423 of 600: Response code [200]: Requesting data about belaya gora at lat:68.533333, lon:146.416667
+[512.4125381431797] Request 424 of 600: Response code [200]: Requesting data about chake chake at lat:-5.25, lon:39.766666699999995
+[512.5671474037354] Request 425 of 600: Response code [200]: Requesting data about butterworth at lat:-32.330833, lon:28.149807999999997
+[512.764174803615] Request 426 of 600: Response code [200]: Requesting data about taywarah at lat:33.521176, lon:64.421156
+[513.0405992765635] Request 427 of 600: Response code [200]: Requesting data about roros at lat:62.583333, lon:11.4
+[513.4572227498487] Request 428 of 600: Response code [200]: Requesting data about mariental at lat:-24.6333333, lon:17.9666667
+[513.6218227185599] Request 429 of 600: Response code [200]: Requesting data about contamana at lat:-7.3333333000000005, lon:-75.0166667
+[513.7890044136261] Request 430 of 600: Response code [200]: Requesting data about flic en flac at lat:-20.2741667, lon:57.3630556
+[514.0806988004355] Request 431 of 600: Response code [200]: Requesting data about pasighat at lat:28.066667, lon:95.333333
+[514.2386084040625] Request 432 of 600: Response code [200]: Requesting data about grieskirchen at lat:48.233333, lon:13.833333
+[514.3091861260751] Request 433 of 600: Response code [200]: Requesting data about jackson at lat:43.480000000000004, lon:-110.7616667
+[514.4710289611623] Request 434 of 600: Response code [200]: Requesting data about tefe at lat:-3.366667, lon:-64.7
+[514.6936271062699] Request 435 of 600: Response code [200]: Requesting data about bassar at lat:9.25, lon:0.7833333
+[514.8550017935788] Request 436 of 600: Response code [200]: Requesting data about priboj at lat:43.58361099999999, lon:19.525833000000002
+[515.0206715886052] Request 437 of 600: Response code [200]: Requesting data about jorpeland at lat:59.016667, lon:6.050000000000001
+[515.2307767065467] Request 438 of 600: Response code [200]: Requesting data about bend at lat:44.0583333, lon:-121.3141667
+[515.3943487254529] Request 439 of 600: Response code [200]: Requesting data about baft at lat:29.2331, lon:56.6022
+[515.5693917476411] Request 440 of 600: Response code [200]: Requesting data about minervino murge at lat:41.083333, lon:16.083332999999996
+[515.5695497722076] Reaching request limit.  Waiting for 60 seconds...
+[576.0150830498109] Request 441 of 600: Response code [200]: Requesting data about karaton at lat:46.435278000000004, lon:53.486389
+[576.3291118387265] Request 442 of 600: Response code [200]: Requesting data about alpen at lat:51.583333, lon:6.516667
+[576.6425097145602] Request 443 of 600: Response code [200]: Requesting data about bintulu at lat:3.166667, lon:113.033333
+[576.958275588523] Request 444 of 600: Response code [200]: Requesting data about maine-soroa at lat:13.2177778, lon:12.0266667
+[577.164793548805] Request 445 of 600: Response code [200]: Requesting data about igarka at lat:67.46550000000002, lon:86.6027
+[577.4776849559032] Request 446 of 600: Response code [200]: Requesting data about sabibah at lat:35.543318000000006, lon:9.073696
+[577.7915004116539] Request 447 of 600: Response code [200]: Requesting data about katobu at lat:-4.9186000000000005, lon:122.52180000000001
+[578.1046750777876] Request 448 of 600: Response code [200]: Requesting data about liwale at lat:-9.7666667, lon:37.93333330000001
+[578.2556316004886] Request 449 of 600: Response code [200]: Requesting data about marv dasht at lat:29.874200000000005, lon:52.8025
+[578.4185470273209] Request 450 of 600: Response code [200]: Requesting data about lakatoro at lat:-16.1166667, lon:167.4166667
+[578.6283732319026] Request 451 of 600: Response code [200]: Requesting data about ushuaia at lat:-54.800000000000004, lon:-68.3
+[578.8356505002267] Request 452 of 600: Response code [200]: Requesting data about fukue at lat:32.688056, lon:128.841944
+[578.9855549743763] Request 453 of 600: Response code [200]: Requesting data about young at lat:-34.313499, lon:148.301071
+[579.1290622190126] Request 454 of 600: Response code [200]: Requesting data about taganak at lat:6.0833330000000005, lon:118.3
+[579.2758133129377] Request 455 of 600: Response code [200]: Requesting data about komatipoort at lat:-25.433205000000008, lon:31.954776999999996
+[579.4253969972171] Request 456 of 600: Response code [200]: Requesting data about alotau at lat:-10.300000000000002, lon:150.41666670000004
+[579.5869312893383] Request 457 of 600: Response code [200]: Requesting data about mpophomeni at lat:-29.568219, lon:30.186182
+[579.7332762601274] Request 458 of 600: Response code [200]: Requesting data about jiupu at lat:41.066667, lon:122.95000000000002
+[579.9337288424858] Request 459 of 600: Response code [200]: Requesting data about moranbah at lat:-21.99828, lon:148.034836
+[580.1973418687669] Request 460 of 600: Response code [200]: Requesting data about paratinga at lat:-12.7, lon:-43.16666699999999
+[580.3492813042716] Request 461 of 600: Response code [200]: Requesting data about le port at lat:-20.916666700000004, lon:55.3
+[580.4978820757475] Request 462 of 600: Response code [200]: Requesting data about sunamganj at lat:25.0666667, lon:91.4
+[580.8203154012323] Request 463 of 600: Response code [200]: Requesting data about chitrakonda at lat:18.116667000000003, lon:82.083333
+[580.9660938539505] Request 464 of 600: Response code [200]: Requesting data about savannakhet at lat:16.55, lon:104.75
+[581.1334612278824] Request 465 of 600: Response code [200]: Requesting data about frutal at lat:-20.033333, lon:-48.916667
+[581.4492729289695] Request 466 of 600: Response code [200]: Requesting data about presidente olegario at lat:-18.416667, lon:-46.416667
+[581.607180162228] Request 467 of 600: Response code [200]: Requesting data about plateros at lat:23.216667, lon:-102.85
+[581.6641416974683] Request 468 of 600: Response code [200]: Requesting data about kihei at lat:20.785, lon:-156.4655556
+[581.7211182450424] Request 469 of 600: Response code [200]: Requesting data about wanxian at lat:30.803889, lon:108.38972200000002
+[581.9814044591373] Request 470 of 600: Response code [200]: Requesting data about vredendal at lat:-31.668328999999996, lon:18.501192
+[582.1263224680908] Request 471 of 600: Response code [200]: Requesting data about taybad at lat:34.74, lon:60.775600000000004
+[582.3869018177566] Request 472 of 600: Response code [200]: Requesting data about ballitoville at lat:-29.538969, lon:31.214385999999998
+[582.5477846536022] Request 473 of 600: Response code [200]: Requesting data about san luis at lat:28.400000000000002, lon:-113.666667
+[582.6120074176731] Request 474 of 600: Response code [200]: Requesting data about ketchikan at lat:55.34222220000001, lon:-131.6461111
+[582.6699028781014] Request 475 of 600: Response code [200]: Requesting data about prattville at lat:32.46388890000001, lon:-86.4597222
+[582.8175223170194] Request 476 of 600: Response code [200]: Requesting data about teruel at lat:40.345073000000006, lon:-1.1041059999999998
+[582.9714461460179] Request 477 of 600: Response code [200]: Requesting data about severo-yeniseyskiy at lat:60.372499999999995, lon:93.040833
+[583.1184402027139] Request 478 of 600: Response code [200]: Requesting data about kenai at lat:60.554444399999994, lon:-151.2583333
+[583.2733587963585] Request 479 of 600: Response code [200]: Requesting data about vuktyl at lat:63.856667, lon:57.309444
+[583.4322355103325] Request 480 of 600: Response code [200]: Requesting data about pudem at lat:58.30439900000002, lon:52.167539
+[583.5868866473982] Request 481 of 600: Response code [200]: Requesting data about marrakesh at lat:31.631485000000005, lon:-8.008281
+[583.7433416348906] Request 482 of 600: Response code [200]: Requesting data about scarborough at lat:11.183333299999997, lon:-60.73333329999999
+[583.9558329237864] Request 483 of 600: Response code [200]: Requesting data about santa rosa at lat:-16.7833333, lon:-61.8
+[584.1629604638337] Request 484 of 600: Response code [200]: Requesting data about bako at lat:5.783333000000001, lon:36.566666999999995
+[584.3743455807639] Request 485 of 600: Response code [200]: Requesting data about zhifang at lat:30.35, lon:114.316667
+[584.5329532579135] Request 486 of 600: Response code [200]: Requesting data about taoudenni at lat:22.666666699999997, lon:-3.9833332999999995
+[584.6959642896085] Request 487 of 600: Response code [200]: Requesting data about yuancheng at lat:23.733333, lon:114.683333
+[585.0006486908454] Request 488 of 600: Response code [200]: Requesting data about garissa at lat:-0.4569444, lon:39.6583333
+[585.160862292652] Request 489 of 600: Response code [200]: Requesting data about ottumwa at lat:41.0041667, lon:-92.37361110000002
+[585.420393149319] Request 490 of 600: Response code [200]: Requesting data about estevan at lat:49.150000000000006, lon:-103.0
+[585.6584042205201] Request 491 of 600: Response code [200]: Requesting data about panguipulli at lat:-39.633333, lon:-72.33333299999998
+[585.9428057735855] Request 492 of 600: Response code [200]: Requesting data about tongchuan at lat:34.89879899999999, lon:108.95056200000002
+[586.1048319171698] Request 493 of 600: Response code [200]: Requesting data about debre tabor at lat:11.85, lon:38.016667
+[586.3615894426947] Request 494 of 600: Response code [200]: Requesting data about barkhan at lat:29.89769600000001, lon:69.52554999999998
+[586.5711414746537] Request 495 of 600: Response code [200]: Requesting data about mandiana at lat:10.6333333, lon:-8.6833333
+[586.5713397954846] Reaching request limit.  Waiting for 60 seconds...
+[646.9329043493101] Request 496 of 600: Response code [200]: Requesting data about gongzhuling at lat:43.50722200000001, lon:124.812222
+[647.1028423878777] Request 497 of 600: Response code [200]: Requesting data about cetraro at lat:39.516667, lon:15.933333
+[647.2598263626063] Request 498 of 600: Response code [200]: Requesting data about nayoro at lat:44.35055599999998, lon:142.457778
+[647.5623462223438] Request 499 of 600: Response code [200]: Requesting data about kainantu at lat:-6.2833333, lon:145.8666667
+[647.723065502763] Request 500 of 600: Response code [200]: Requesting data about cheney at lat:47.48749999999998, lon:-117.5747222
+[647.8851113994182] Request 501 of 600: Response code [200]: Requesting data about hidalgo at lat:25.8425, lon:-99.616111
+[648.066734169494] Request 502 of 600: Response code [200]: Requesting data about wau at lat:-7.3333333, lon:146.7166667
+[648.3432143461023] Request 503 of 600: Response code [200]: Requesting data about melo at lat:-32.36666670000002, lon:-54.1833333
+[648.4093160222689] Request 504 of 600: Response code [200]: Requesting data about mazatlan at lat:23.216667, lon:-106.41666699999999
+[648.5660451823841] Request 505 of 600: Response code [200]: Requesting data about nangomba at lat:-10.9, lon:38.50000000000001
+[648.7207571589079] Request 506 of 600: Response code [200]: Requesting data about deputatskiy at lat:69.29999999999998, lon:139.9
+[648.8717358050483] Request 507 of 600: Response code [200]: Requesting data about bria at lat:6.533333300000001, lon:21.98333330000001
+[649.0399197709276] Request 508 of 600: Response code [200]: Requesting data about porto murtinho at lat:-21.700000000000006, lon:-57.866667
+[649.2000780641358] Request 509 of 600: Response code [200]: Requesting data about nyagan at lat:62.14055600000002, lon:65.393611
+[649.3597488515564] Request 510 of 600: Response code [200]: Requesting data about mlimba at lat:-8.8, lon:35.8166667
+[649.5194283303282] Request 511 of 600: Response code [200]: Requesting data about cosmopolis at lat:-22.633333, lon:-47.199999999999996
+[649.6857653840866] Request 512 of 600: Response code [200]: Requesting data about porto walter at lat:-8.261111000000001, lon:-72.738889
+[649.7664902585756] Request 513 of 600: Response code [200]: Requesting data about mansfield at lat:40.75833329999999, lon:-82.5155556
+[650.0306089634695] Request 514 of 600: Response code [200]: Requesting data about gap at lat:44.56151400000001, lon:6.081061000000001
+[650.1894054799759] Request 515 of 600: Response code [200]: Requesting data about sakaiminato at lat:35.54999999999999, lon:133.233333
+[650.351076463347] Request 516 of 600: Response code [200]: Requesting data about corrente at lat:-10.436111, lon:-45.131111
+[650.5071877474072] Request 517 of 600: Response code [200]: Requesting data about nombre de dios at lat:23.85, lon:-104.233333
+[650.6638845124863] Request 518 of 600: Response code [200]: Requesting data about rolim de moura at lat:-13.083333, lon:-62.266667
+[650.8337166745943] Request 519 of 600: Response code [200]: Requesting data about japura at lat:-1.395833, lon:-69.422222
+[650.9948191645873] Request 520 of 600: Response code [200]: Requesting data about raypur at lat:23.05, lon:90.76666669999999
+[651.1542189398764] Request 521 of 600: Response code [200]: Requesting data about fougamou at lat:-1.2166667, lon:10.6
+[651.3313941085281] Request 522 of 600: Response code [200]: Requesting data about thanh hoa at lat:19.800000000000004, lon:105.766667
+[651.4963721510146] Request 523 of 600: Response code [200]: Requesting data about hisor at lat:38.481944399999996, lon:68.5969444
+[651.6540613103713] Request 524 of 600: Response code [200]: Requesting data about tasbuget at lat:44.772778, lon:65.5525
+[651.8152230595769] Request 525 of 600: Response code [200]: Requesting data about springdale at lat:49.483333, lon:-56.10000000000001
+[652.1573592830741] Request 526 of 600: Response code [200]: Requesting data about urusha at lat:54.050000000000004, lon:122.90000000000002
+[652.391228135326] Request 527 of 600: Response code [200]: Requesting data about kurayoshi at lat:35.43333300000001, lon:133.816667
+[652.5509878115652] Request 528 of 600: Response code [200]: Requesting data about ashland at lat:42.1947222, lon:-122.70833329999999
+[652.7158884220141] Request 529 of 600: Response code [200]: Requesting data about purwodadi at lat:-7.086800000000002, lon:110.9158
+[652.8824810805088] Request 530 of 600: Response code [200]: Requesting data about damara at lat:4.9666667, lon:18.699999999999996
+[653.0405739926329] Request 531 of 600: Response code [200]: Requesting data about kandi at lat:11.134166700000002, lon:2.938611100000001
+[653.2053090723484] Request 532 of 600: Response code [200]: Requesting data about shafter at lat:35.5005556, lon:-119.27083330000002
+[653.3700421767568] Request 533 of 600: Response code [200]: Requesting data about bridlington at lat:54.095000000000006, lon:-0.20805600000000002
+[653.4405926395317] Request 534 of 600: Response code [200]: Requesting data about songkhla at lat:7.198822, lon:100.595098
+[653.6078525567585] Request 535 of 600: Response code [200]: Requesting data about yeppoon at lat:-23.126829, lon:150.744064
+[653.7668659619825] Request 536 of 600: Response code [200]: Requesting data about khonuu at lat:66.45000000000002, lon:143.1
+[653.9246487508948] Request 537 of 600: Response code [200]: Requesting data about norrtalje at lat:59.766667, lon:18.700000000000003
+[654.1821244980745] Request 538 of 600: Response code [200]: Requesting data about edd at lat:13.9297222, lon:41.6925
+[654.5228191424638] Request 539 of 600: Response code [200]: Requesting data about riobamba at lat:-1.6666667, lon:-78.63333329999999
+[654.680614968403] Request 540 of 600: Response code [200]: Requesting data about maloy at lat:61.938333, lon:5.113333
+[654.8662096859578] Request 541 of 600: Response code [200]: Requesting data about saravan at lat:15.716667000000001, lon:106.41666699999999
+[654.9428444896043] Request 542 of 600: Response code [200]: Requesting data about kentau at lat:43.521944, lon:68.51083299999999
+[655.187949678657] Request 543 of 600: Response code [200]: Requesting data about mabaruma at lat:8.2, lon:-59.7833333
+[655.5007600981648] Request 544 of 600: Response code [200]: Requesting data about nandyal at lat:15.483333, lon:78.483333
+[655.7110504999107] Request 545 of 600: Response code [200]: Requesting data about maningrida at lat:-12.05111, lon:134.22258
+[655.7726133154661] Request 546 of 600: Response code [200]: Requesting data about ende at lat:-8.8432, lon:121.6623
+[656.0220961800721] Request 547 of 600: Response code [200]: Requesting data about mawlaik at lat:23.6333333, lon:94.4166667
+[656.3393885713473] Request 548 of 600: Response code [200]: Requesting data about trat at lat:12.241027999999998, lon:102.515472
+[656.4967956568528] Request 549 of 600: Response code [200]: Requesting data about casalpusterlengo at lat:45.183333000000005, lon:9.650000000000002
+[656.859831024331] Request 550 of 600: Response code [200]: Requesting data about artvin at lat:41.182222, lon:41.81944399999999
+[656.8599783822393] Reaching request limit.  Waiting for 60 seconds...
+[717.3365077835] Request 551 of 600: Response code [200]: Requesting data about point pedro at lat:9.816666699999999, lon:80.23333329999998
+[717.4924851417402] Request 552 of 600: Response code [200]: Requesting data about riviere-au-renard at lat:48.98333300000001, lon:-64.383333
+[717.7480574830163] Request 553 of 600: Response code [200]: Requesting data about bahia blanca at lat:-38.719595000000005, lon:-62.27243200000001
+[717.8990977587375] Request 554 of 600: Response code [200]: Requesting data about abu kamal at lat:34.45, lon:40.918611099999985
+[718.1032097949948] Request 555 of 600: Response code [200]: Requesting data about umm lajj at lat:25.021264000000002, lon:37.268502
+[718.2863334033909] Request 556 of 600: Response code [200]: Requesting data about saint combs at lat:57.65, lon:-1.8999999999999995
+[718.4638712384227] Request 557 of 600: Response code [200]: Requesting data about micco at lat:27.880277800000005, lon:-80.5005556
+[718.6215204965764] Request 558 of 600: Response code [200]: Requesting data about tezu at lat:27.916667, lon:96.166667
+[718.7762498558026] Request 559 of 600: Response code [200]: Requesting data about derzhavinsk at lat:51.100000000000016, lon:66.316667
+[718.8518061417828] Request 560 of 600: Response code [200]: Requesting data about maxixe at lat:-23.8597222, lon:35.3472222
+[719.0068033526492] Request 561 of 600: Response code [200]: Requesting data about atbasar at lat:51.8, lon:68.333333
+[719.1698906311975] Request 562 of 600: Response code [200]: Requesting data about norrkoping at lat:58.600000000000016, lon:16.183333000000005
+[719.3357141051148] Request 563 of 600: Response code [200]: Requesting data about teavaro at lat:-17.5, lon:-149.7666667
+[719.5288217056224] Request 564 of 600: Response code [200]: Requesting data about bantou at lat:25.443056, lon:118.40333300000002
+[719.7052703563296] Request 565 of 600: Response code [200]: Requesting data about dorogino at lat:54.3598, lon:83.3198
+[719.9457869070326] Request 566 of 600: Response code [200]: Requesting data about sylvania at lat:41.71888890000001, lon:-83.7130556
+[720.100731969792] Request 567 of 600: Response code [200]: Requesting data about kupang at lat:-10.166667, lon:123.583333
+[720.3643078603] Request 568 of 600: Response code [200]: Requesting data about rach gia at lat:10.016667000000002, lon:105.083333
+[720.4289051425935] Request 569 of 600: Response code [200]: Requesting data about lincoln at lat:40.800000000000004, lon:-96.6666667
+[720.5022925413984] Request 570 of 600: Response code [200]: Requesting data about nouakchott at lat:18.0863889, lon:-15.975277800000002
+[720.6684771014502] Request 571 of 600: Response code [200]: Requesting data about ituacu at lat:-13.816667000000002, lon:-41.3
+[720.8347572663646] Request 572 of 600: Response code [200]: Requesting data about mar del plata at lat:-38.002278000000004, lon:-57.55753899999999
+[721.0128201380187] Request 573 of 600: Response code [200]: Requesting data about tuktoyaktuk at lat:69.45, lon:-133.066667
+[721.1697278658941] Request 574 of 600: Response code [200]: Requesting data about dhanera at lat:24.516667, lon:72.016667
+[721.298533294986] Request 575 of 600: Response code [200]: Requesting data about frolovo at lat:49.77132600000001, lon:43.662221
+[721.4678400254104] Request 576 of 600: Response code [200]: Requesting data about bentiu at lat:9.2333333, lon:29.8333333
+[721.633937276889] Request 577 of 600: Response code [200]: Requesting data about puerto quijarro at lat:-17.783333300000002, lon:-57.766666699999995
+[721.7894852033697] Request 578 of 600: Response code [200]: Requesting data about opuwo at lat:-18.0666667, lon:13.850000000000001
+[721.9483156951579] Request 579 of 600: Response code [200]: Requesting data about barawe at lat:1.1000000000000005, lon:44.04999999999999
+[722.2451040038684] Request 580 of 600: Response code [200]: Requesting data about damphu at lat:27.0166667, lon:90.1
+[722.5580258306957] Request 581 of 600: Response code [200]: Requesting data about koutiala at lat:12.383333300000002, lon:-5.466666699999999
+[722.7635577176828] Request 582 of 600: Response code [200]: Requesting data about obo at lat:5.4, lon:26.5
+[722.9766265863691] Request 583 of 600: Response code [200]: Requesting data about kaset sombun at lat:16.280528000000004, lon:101.954222
+[723.2884896486007] Request 584 of 600: Response code [200]: Requesting data about nohfelden at lat:49.58333300000001, lon:7.150000000000001
+[723.4462649313463] Request 585 of 600: Response code [200]: Requesting data about kasungu at lat:-13.033333299999999, lon:33.48333330000001
+[723.7028707532874] Request 586 of 600: Response code [200]: Requesting data about khandbari at lat:27.366666700000003, lon:87.2166667
+[723.8684718076272] Request 587 of 600: Response code [200]: Requesting data about mutsu at lat:41.28944400000001, lon:141.216944
+[724.0322915300412] Request 588 of 600: Response code [200]: Requesting data about muros at lat:42.776173, lon:-9.060316
+[724.3325346508368] Request 589 of 600: Response code [200]: Requesting data about calama at lat:-22.466667, lon:-68.93333299999999
+[724.6438185530322] Request 590 of 600: Response code [200]: Requesting data about moyale at lat:3.569167, lon:39.083333
+[724.7998231705101] Request 591 of 600: Response code [200]: Requesting data about karauli at lat:26.5, lon:77.016667
+[724.971440615158] Request 592 of 600: Response code [200]: Requesting data about dibulla at lat:11.272506, lon:-73.309107
+[725.0397530550099] Request 593 of 600: Response code [200]: Requesting data about linjiang at lat:41.806943999999994, lon:126.90777799999998
+[725.1020423885097] Request 594 of 600: Response code [200]: Requesting data about peruibe at lat:-24.316666999999995, lon:-47.0
+[725.2551725391229] Request 595 of 600: Response code [200]: Requesting data about zalesovo at lat:53.993888999999996, lon:84.743056
+[725.5067753032887] Request 596 of 600: Response code [200]: Requesting data about beya at lat:53.05333300000001, lon:90.913889
+[725.6654023384475] Request 597 of 600: Response code [200]: Requesting data about riyadh at lat:24.653664, lon:46.71522
+[725.8324670953347] Request 598 of 600: Response code [200]: Requesting data about tillabery at lat:14.211666700000002, lon:1.4530556
+[725.9131670809544] Request 599 of 600: Response code [200]: Requesting data about xiangxiang at lat:27.733333, lon:112.533333
